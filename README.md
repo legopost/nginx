@@ -1,4 +1,5 @@
 # nginx
+[![Build Status](https://travis-ci.org/legopost/nginx.svg?branch=master)](https://travis-ci.org/legopost/nginx)
 
 This cookbook installs nginx
 
